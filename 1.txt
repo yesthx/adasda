@@ -1,0 +1,10 @@
+socks5://uwqnpmik-1:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-2:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-3:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-4:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-5:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-6:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-7:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-8:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-9:m3zs0dt8jlev@p.webshare.io:80
+socks5://uwqnpmik-10:m3zs0dt8jlev@p.webshare.io:80
